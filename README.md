@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="header_gitHub.svg" alt="Hello World" width="100%">
+</p>
+
 <!--
 **code-by-Olesya/code-by-Olesya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
