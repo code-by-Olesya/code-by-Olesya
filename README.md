@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <img src="header.png" alt="Hello World" width="100%">
 </p>
@@ -12,17 +10,11 @@
 - 😊 Буду рада совместно поработать над интересным проектом
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AccounttDeletedd)
-<!--
-**code-by-Olesya/code-by-Olesya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=js,py,cpp,ts,vscode,html,css,react,figma,git,github)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials
+[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/AccounttDeletedd)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:olesya_20_07@mail.ru)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ollessyaa_aaa)
