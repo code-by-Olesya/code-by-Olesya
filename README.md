@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="header_gitHub.svg" alt="Hello World" width="100%">
+  <img src="header.png" alt="Hello World" width="100%">
 </p>
 
 <!--
