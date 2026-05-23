@@ -4,13 +4,14 @@
   <img src="header.png" alt="Hello World" width="100%">
 </p>
 
-🚀 Обо мне:
--👩‍💻 beginner frontend developer
--💻 воркаю на фрилансе 
--🪪 хочу получить оффер
--📍 spb
--😃 буду рада совместно поработать над интересным проектом
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@AccounttDeletedd)
+### 🚀 Обо мне:
+- 👩‍💻 Beginner frontend developer
+- 💻 Воркаю на фрилансе
+- 💼 Хочу получить оффер
+- 📍 SPB
+- 😊 Буду рада совместно поработать над интересным проектом
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AccounttDeletedd)
 <!--
 **code-by-Olesya/code-by-Olesya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
