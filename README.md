@@ -15,6 +15,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,py,cpp,ts,vscode,html,css,react,figma,git,github)](https://skillicons.dev)
 
 ### Socials
-[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/@AccounttDeletedd)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:[olesya_20_07@mail.ru](https://e.mail.ru/inbox/?back=1))
+[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/AccounttDeletedd)
+[![Mail.ru](https://img.shields.io/badge/@-005FFC?style=apps&logo=mail.ru&logoColor=white)](mailto:[olesya_20_07@mail.ru](https://e.mail.ru/inbox/?back=1))
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ollessyaa_aaa)
